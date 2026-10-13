@@ -6,6 +6,8 @@ against them. Drop your help text in a file, run one command, get rule-id'd
 findings with severities. Pure standard library, one file. *No direct
 equivalent found as of 2026-10-13.*
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 CLI help quality is inconsistent because "good help" is treated as taste
